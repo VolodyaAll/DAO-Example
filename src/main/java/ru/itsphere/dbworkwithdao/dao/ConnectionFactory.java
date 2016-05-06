@@ -14,7 +14,7 @@ import java.sql.SQLException;
 public class ConnectionFactory {
 
     public static final String H2_DRIVER = "org.h2.Driver";
-    public static final String DB_URL = "jdbc:h2:~/test";
+    public static final String DB_URL = "jdbc:h2:D:\\Install\\Authors";
     public static final String LOGIN = "sa";
     public static final String PASSWORD = "";
 
